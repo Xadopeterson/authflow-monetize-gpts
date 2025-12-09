@@ -409,6 +409,10 @@ You'll also need to copy:
 
 ### Step 6: Paste the Schema
 
+![GPT Actions Schema Input](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257068494-Screenshot%202025-12-09%20001057.png?alt=media&token=9af55619-c1dc-4420-9c40-8ec31f83cfcf)
+
+*This is what the ChatGPT custom GPT actions tab looks like where you'll paste the schema.*
+
 1. In the action configuration, find the schema/OpenAPI field (it's a large text box)
 2. **Paste** the schema you copied from Authflow (Ctrl+V or Cmd+V, or right-click and paste)
 3. You don't need to format it - just paste it directly
@@ -420,12 +424,21 @@ You'll also need to copy:
 
 ### Step 7: Configure Authentication
 
+![GPT Authentication Configuration](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257120654-Screenshot%202025-12-09%20001154.png?alt=media&token=cc19898b-20a1-47f7-b8cc-77905f84f8c6)
+
+*This is where you configure the API key authentication in your custom GPT's action settings.*
+
 This is where you connect your API key. **This step is required for the paywall to work:**
 
 1. In the action configuration, scroll to the **"Authentication"** section
 2. Click on **"API Key"** (the authentication type)
 3. Select **"Custom"** (not "Bearer" or "Basic")
 4. **Paste your API Header Key** in the API Key field (the one you copied from Authflow)
+
+![Where to Paste API Header Key](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257184686-Screenshot%202025-12-09%20001241.png?alt=media&token=9ad767ff-c492-4d99-9ab1-3f66740f0abb)
+
+*This shows exactly where to paste your API Header Key in the authentication section.*
+
 5. For the **"Custom Header Name"** field, paste the **API Header Name** you copied (usually `x-api-key`)
 6. Click **"Save"**
 
@@ -445,6 +458,10 @@ This is where you connect your API key. **This step is required for the paywall 
 > **Note**: This privacy policy is specific to the Authflow action. If you have other actions in your GPT, you may want your own privacy policy for those, but for the Authflow action, use Authflow's privacy policy.
 
 ### Step 9: Add the Top Context Instructions (CRITICAL!)
+
+![Where to Paste Top Context Instructions](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257184057-Screenshot%202025-12-09%20001258.png?alt=media&token=f646bdcb-0ea6-43ad-8600-a0af5f540ef5)
+
+*This shows where to paste the Authflow Top Context Instructions - they must be at the very top of your GPT's instructions field, above all existing instructions.*
 
 This is the **most important step** - without this, your paywall won't work:
 
