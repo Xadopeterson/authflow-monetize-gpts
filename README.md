@@ -138,6 +138,9 @@ The Authflow dashboard is organized into several main sections. Here's what each
 ### 📊 OVERVIEW Section
 
 #### **Dashboard**
+
+![Authflow Dashboard](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256059158-Screenshot%202025-12-08%20235404.png?alt=media&token=5b70a188-05c4-4c03-b74c-f2034f7ca5bc)
+
 - **Purpose**: Your main overview page showing key metrics
 - **What you'll see**:
   - Total revenue and earnings
@@ -146,8 +149,6 @@ The Authflow dashboard is organized into several main sections. Here's what each
   - Quick stats (last 30 days, all time, etc.)
   - List of all your paywalls with key metrics
 - **Use it for**: Getting a quick snapshot of your business performance
-
-![Authflow Dashboard](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256059158-Screenshot%202025-12-08%20235404.png?alt=media&token=5b70a188-05c4-4c03-b74c-f2034f7ca5bc)
 
 #### **Analytics**
 - **Purpose**: Detailed analytics and reporting
@@ -163,6 +164,9 @@ The Authflow dashboard is organized into several main sections. Here's what each
 ### 🔒 PAYWALLS Section
 
 #### **Create Paywall**
+
+![Create Paywall Page](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256105553-Screenshot%202025-12-08%20235458.png?alt=media&token=3bb3b04c-5da6-47ff-971a-385d766f52d3)
+
 - **Purpose**: Build a new paywall for your GPT
 - **What you'll see**:
   - Form to configure paywall details
@@ -171,9 +175,10 @@ The Authflow dashboard is organized into several main sections. Here's what each
   - Integration credentials (after creation)
 - **Use it for**: Creating new monetization options for your GPTs
 
-![Create Paywall Page](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256105553-Screenshot%202025-12-08%20235458.png?alt=media&token=3bb3b04c-5da6-47ff-971a-385d766f52d3)
-
 #### **My Paywalls**
+
+![My Paywalls Page](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256161512-Screenshot%202025-12-08%20235552.png?alt=media&token=5a999800-9584-4951-9545-2c3ddcd537ab)
+
 - **Purpose**: Manage all your existing paywalls
 - **What you'll see**:
   - Table listing all paywalls
@@ -188,9 +193,9 @@ The Authflow dashboard is organized into several main sections. Here's what each
   - Monitoring performance
   - Downloading reports
 
-![My Paywalls Page](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256161512-Screenshot%202025-12-08%20235552.png?alt=media&token=5a999800-9584-4951-9545-2c3ddcd537ab)
-
 ### 👤 ACCOUNT Section
+
+![Account Settings](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256469346-Screenshot%202025-12-09%20000059.png?alt=media&token=e9c5129c-1afb-4ce5-851f-96c64d53ce1f)
 
 #### **Plans & Billing**
 - **Purpose**: Manage your Authflow subscription plan
@@ -339,6 +344,10 @@ Fill out the following fields in the paywall creation form:
 
 ## Integrating Authflow into Your Custom GPT
 
+![Paywall Integration Details](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256222585-Screenshot%202025-12-08%20235655.png?alt=media&token=2e301877-996a-4609-8ce8-7e0d82ca22cf)
+
+*The paywall details page shows all the integration information you need: GPT Schema, API Header Key, API Header Name, Privacy Policy, and Top Context Instructions.*
+
 This is the most important section! Here's the complete step-by-step process to integrate your Authflow paywall into your custom GPT on ChatGPT.
 
 > **💡 Pro Tip**: As one of the Authflow creators said: *"If you can copy and paste, you can implement a paywall."* It's really that simple!
@@ -356,10 +365,6 @@ Before starting the integration, make sure you have:
 2. You'll see a table listing all your paywalls
 3. Find your paywall and click the **"Go"** button in the "Manage" column
 4. This opens the paywall details page where you'll find all integration information
-
-![Paywall Integration Details](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256222585-Screenshot%202025-12-08%20235655.png?alt=media&token=2e301877-996a-4609-8ce8-7e0d82ca22cf)
-
-*The paywall details page shows all the integration information you need: GPT Schema, API Header Key, API Header Name, Privacy Policy, and Top Context Instructions.*
 
 ### Step 2: Copy the Schema
 
