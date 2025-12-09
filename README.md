@@ -686,52 +686,168 @@ Currently, **you can only have one Authflow action per GPT**. If you need multip
 
 ---
 
-## Pricing Strategies
+## Authflow Pricing Plans
 
-### Understanding Your Market
+Authflow offers flexible pricing plans to suit creators at every stage. Here's what each plan includes:
 
-Before setting prices, consider:
+### Free Plan - $0/month
+**Perfect for getting started**
+
+- ✅ **1 Paywall** - Create one paywall to monetize one GPT
+- ✅ **10% Fee Per Transaction** - Standard transaction fee
+- ✅ **Unlimited Revenue** - No limits on how much you can earn
+- ✅ **Basic Analytics** - Track your basic metrics
+- 🎯 **Best for**: Testing the platform, single GPT creators, getting started
+
+**Get Started**: Click "Get Started" to begin with the free plan
+
+---
+
+### Starter Plan - $9/month (Regularly $29/month)
+**For growing businesses** ⭐ **Most Popular**
+
+- ✅ **5 Paywalls** - Create up to 5 different paywalls
+- ✅ **10% Fee Per Transaction** - Standard transaction fee
+- ✅ **Unlimited Revenue** - No limits on how much you can earn
+- ✅ **Email Support** - Get help when you need it
+- ✅ **Advanced Analytics** - Deeper insights into your business
+- 🎯 **Best for**: Multiple GPTs, serious creators, growing businesses
+
+**Upgrade**: Click "Upgrade" to move to the Starter plan
+
+---
+
+### Pro Plan - $49/month (Regularly $99/month)
+**For power users**
+
+- ✅ **30 Paywalls** - Create up to 30 different paywalls
+- ✅ **10% Fee Per Transaction** - Standard transaction fee
+- ✅ **Unlimited Revenue** - No limits on how much you can earn
+- ✅ **Email Support** - Get help when you need it
+- ✅ **Phone Support** - Priority phone support available
+- ✅ **Premium Analytics** - Advanced reporting and insights
+- 🎯 **Best for**: Professional creators, agencies, multiple products
+
+**Go Pro**: Click "Go Pro" to upgrade to the Pro plan
+
+---
+
+### Enterprise Plan - Starting at $299/month
+**Tailored for scale and support**
+
+- ✅ **Unlimited Paywalls** - Create as many paywalls as you need
+- ✅ **Custom Transaction Fee** - Negotiated transaction fees
+- ✅ **Unlimited Revenue** - No limits on how much you can earn
+- ✅ **Priority Roadmap Input** - Influence product development
+- ✅ **Access to Private Beta Features** - Early access to new features
+- ✅ **Email Support** - Dedicated support
+- ✅ **Phone Support** - Priority phone support
+- ✅ **Priority Queue** - Fast-tracked support requests
+- ✅ **Custom Analytics** - Tailored reporting solutions
+- 🎯 **Best for**: Large businesses, agencies, high-volume creators
+
+**Contact Sales**: Click "Contact Sales" to discuss Enterprise options
+
+---
+
+## Understanding Authflow Fees
+
+### Transaction Fee Structure
+
+All plans (except Enterprise with custom fees) charge:
+- **10% Fee Per Transaction** - Applied to each payment you receive
+- **Plus Stripe Fees** - Stripe charges their standard processing fees (typically 2.9% + $0.30 per transaction)
+
+**Example Calculation:**
+- User pays: $10/month subscription
+- Authflow fee (10%): $1.00
+- Stripe fee: ~$0.59 (2.9% + $0.30)
+- **Your net payout**: ~$8.41 per transaction
+
+### Revenue Sharing
+
+- **You keep the rest**: After Authflow and Stripe fees, all remaining revenue goes directly to your Stripe account
+- **No revenue limits**: All plans offer unlimited revenue potential
+- **Automatic payouts**: Money goes directly to your connected Stripe account
+
+---
+
+## Choosing the Right Plan
+
+### Start with Free
+- Perfect for testing the platform
+- See if Authflow works for your use case
+- Create one paywall to get started
+
+### Upgrade to Starter ($9/month) when:
+- You want to monetize multiple GPTs
+- You need advanced analytics
+- You want email support
+- You're ready to scale
+
+### Upgrade to Pro ($49/month) when:
+- You have many GPTs or products
+- You need phone support
+- You want premium analytics
+- You're running a serious business
+
+### Consider Enterprise ($299+/month) when:
+- You need unlimited paywalls
+- You want custom transaction fees
+- You need priority support
+- You want to influence product development
+
+---
+
+## How to Change Your Plan
+
+1. Go to **"Plans & Billing"** in your Authflow dashboard (under ACCOUNT)
+2. View your current plan
+3. Click the upgrade button for the plan you want
+4. Complete the payment process
+5. Your new plan takes effect immediately
+
+---
+
+## Pricing Your GPTs (What to Charge Users)
+
+Now that you understand Authflow's pricing, here's how to think about pricing YOUR GPTs:
+
+### Factors to Consider
+
 - **Your GPT's Value**: What problem does it solve? How much time/money does it save users?
 - **Competition**: Research similar GPTs and their pricing
 - **Target Audience**: Who are your users? What can they afford?
+- **Your Costs**: Consider API costs, your time, and Authflow/Stripe fees
 
-### Pricing Models
+### Common Pricing Strategies for Your GPTs
 
-#### 1. Freemium Model
-- Offer a free tier with limited features
-- Charge for premium features or unlimited access
-- **Example**: Free users get 10 queries/month, premium gets unlimited
+#### 1. Low Entry Point ($1-5/month)
+- Attract more users
+- Build a large subscriber base
+- Good for: Simple tools, high-volume products
 
-#### 2. Tiered Subscriptions
-- Multiple pricing tiers (Basic, Pro, Enterprise)
-- Each tier offers different levels of access
-- **Example**: 
-  - Basic: $9/month - 100 queries
-  - Pro: $29/month - 1000 queries
-  - Enterprise: $99/month - Unlimited
+#### 2. Mid-Range ($5-20/month)
+- Balance between value and accessibility
+- Most common pricing range
+- Good for: Most GPTs, general tools
 
-#### 3. Usage-Based Pricing
-- Charge based on usage (per query, per API call, etc.)
-- Good for GPTs with variable costs
-- **Example**: $0.10 per query or $20 for 250 queries
+#### 3. Premium ($20-100/month)
+- Higher perceived value
+- Fewer but more committed users
+- Good for: Specialized tools, professional services
 
-#### 4. One-Time Payment
-- Single payment for lifetime access
-- Best for: Tools, templates, one-off services
-- **Example**: $49 one-time payment
+#### 4. Enterprise Pricing ($100+/month)
+- High-value products
+- Custom solutions
+- Good for: Business tools, specialized services
 
-### Using Authflow's Pricing Optimizer
+### Using Free Trials
 
-Authflow includes a built-in **Pricing Optimizer** tool that helps you:
-- Analyze market pricing
-- Get AI-powered pricing suggestions
-- Test different price points
-- Optimize for maximum revenue
-
-**To use the Optimizer**:
-1. Navigate to **"Optimizer"** in your Authflow dashboard
-2. Enter your GPT category and description
-3. Get personalized pricing recommendations
+- **3-7 day free trials** are highly recommended
+- Let users experience value before paying
+- Increases conversion rates significantly
+- You can enable this in the paywall creation form
 
 ---
 
